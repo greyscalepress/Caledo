@@ -3,11 +3,7 @@
 Caledo is a condensed typeface draw for headline
 
 ## Specimen
-<<<<<<< HEAD
-![Specimen 1](https://raw.github.com/bsozoo/Caledo/master/sample.png)
-=======
-![Specimen 1](https://raw.github.com/bsozoo/Caledo/master/Sample.png)
->>>>>>> update gitignore
+![Specimen 1](https://raw.github.com/bsozoo/Caledo/master/documentation/images/sample.png)
 
 ## License
 
